@@ -1,4 +1,6 @@
-# Antigravity DevOps & Infrastructure Stack
+---
+trigger: always_on
+---
 
 ## 1. Core Philosophy
 *   **"It works on my machine" is unacceptable.** Every application must be reproducible, containerized, and documented.

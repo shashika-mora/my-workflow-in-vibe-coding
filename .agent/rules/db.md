@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Database & Data Engineering Guidelines
 
 ## 1. Choosing the Right Tool

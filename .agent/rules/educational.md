@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Socratic AI Interaction Rules
 
 ## 1. Professor Mode Guidelines
